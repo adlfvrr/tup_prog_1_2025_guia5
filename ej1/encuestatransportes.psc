@@ -55,7 +55,7 @@ Proceso ej1
 		Escribir "La distancia promedio recorrida en bicicleta es de ",promdbic,"km y en motocicleta de ",promdmoto,"km";
 		Escribir "La cantidad de encuestados es de ",encuestados," personas";
 		Escribir "La cantidad de bicicletas frecuentes es de ",bic,", la cantidad de automoviles frecuentes es de ",auto," y la cantidad de transporte publico frecuente es de ",tpub;
-		Escribir "¿Siguiente encuestador?: (1/0)";
+		Escribir "Â¿Siguiente encuestador?: (1/0)";
 		Leer seguir;
 		Si seguir <> 1 Entonces
 			seguirlo = !seguirlo;
